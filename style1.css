@@ -80,3 +80,15 @@ input {
 .kiri img {
     border-radius: 50%;
 }
+.kanan .konten button {
+    background-color: #ff0606;
+        border-radius: 10px;
+        border: 4px double #000000;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 12px;
+        padding: 20px;
+        width: 80px;
+        margin: 5px;
+
+}
